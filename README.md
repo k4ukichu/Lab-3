@@ -12,7 +12,7 @@
  with table of color code
  
  ## Toggle on and off
- there are wo layers of map one just the openstreet map and other designed using mapbox. the toggle allows to move to and from from each map layer
+ there are wo layers of map one just the openstreet map and other designed using mapbox. the toggle allows to move to and fro from each map layer
  
  ## Color code table with description
  On the Map Page there is a table describing about the different color codes used for different incidents and describtions
