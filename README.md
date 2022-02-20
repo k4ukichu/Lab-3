@@ -20,7 +20,7 @@
  
  
  ## Mapbox design Map
--Coverted the cvs file from open calgary  database to vector tile formate and added into a basic map layer.
+-Coverted the cvs file from open calgary  database to vector tile format and added into a basic map layer.
 -Then added  different colors for each situation changed radius, opacity etc for different zoom level 
  
  
